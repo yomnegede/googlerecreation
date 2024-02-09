@@ -1,0 +1,58 @@
+body{
+    background-color:#cdb890;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#OKCPG{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#PACERSPG{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    text-align: center;
+    justify-content: center;
+}
+
+#CASUALPG{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#CASUALPGPT2{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph1:hover{
+        text-decoration: underline;
+}
+
+.paragraph1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.paragraph2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.paragraph2:hover{
+    text-decoration: underline;
+}
+
